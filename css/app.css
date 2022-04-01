@@ -1,0 +1,16 @@
+.navbar{
+    color: white;
+}
+.service-icon{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50%;
+}
+.card-text{
+    line-height: 40px;
+}
+.clogo{
+    width: 250px !important;
+}
+
